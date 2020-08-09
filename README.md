@@ -22,4 +22,13 @@ Need more information? Contact me:
 
 * Email: bervianto.leo@gmail.com
 
+* Stackoverflow
+
+<a href="https://stackoverflow.com/users/6948591/bervianto-leo-pratama"><img src="https://stackoverflow.com/users/flair/6948591.png" width="208" height="58" alt="profile for Bervianto Leo Pratama at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Bervianto Leo Pratama at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+## My Blog
+
+* DEV
+[![Bervianto Leo Pratama's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/berviantoleo)
+
 Visit: https://berviantoleo.my.id
