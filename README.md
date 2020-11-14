@@ -5,6 +5,8 @@
 
 I'm a Backend Developer working in Bandung, Indonesia.
 
+## Certification
+
 [![Azure](https://raw.githubusercontent.com/berviantoleo/berviantoleo/master/microsoft-certified-azure-fundamentals.png)](https://www.youracclaim.com/badges/61a336e9-92a7-4c8c-aeee-a5c07bf3fae5/public_url)
 
 ## Focus
@@ -22,9 +24,9 @@ I'm a Backend Developer working in Bandung, Indonesia.
 
 Need more information? Contact me:
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
+[![My Twitter][1.1]][1]
+[![My Facebook][2.1]][2]
+[![My Github][3.1]][3]
 
 <a href="https://stackoverflow.com/users/6948591/bervianto-leo-pratama"><img src="https://stackoverflow.com/users/flair/6948591.png" width="208" height="58" alt="profile for Bervianto Leo Pratama at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Bervianto Leo Pratama at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
@@ -34,12 +36,17 @@ Need more information? Contact me:
 * Medium: https://medium.com/@bervianto.leo
 * Visit: https://berviantoleo.my.id
 
+## My Organization
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[![bervProject][3.1]][4]
 
 
-[1]: http://www.twitter.com/berviantoleo
-[2]: http://www.facebook.com/bervianto.leo
-[3]: http://www.github.com/berviantoleo
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon)
+[3.1]: http://i.imgur.com/0o48UoR.png (github icon)
+
+
+[1]: https://twitter.com/berviantoleo
+[2]: https://facebook.com/bervianto.leo
+[3]: https://github.com/berviantoleo
+[4]: https://github.com/bervProject
