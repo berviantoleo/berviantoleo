@@ -7,7 +7,9 @@ I'm a Backend Developer working in Bandung, Indonesia.
 
 ## Certification
 
-[![Azure](https://raw.githubusercontent.com/berviantoleo/berviantoleo/master/microsoft-certified-azure-fundamentals.png)](https://www.youracclaim.com/badges/61a336e9-92a7-4c8c-aeee-a5c07bf3fae5/public_url)
+| AZ-900 | AZ-204 |
+|:------:|:------:|
+| <a href="https://www.youracclaim.com/badges/61a336e9-92a7-4c8c-aeee-a5c07bf3fae5/public_url"><img alt="AZ-900" width="100" height="100" src="https://raw.githubusercontent.com/berviantoleo/berviantoleo/master/microsoft-certified-azure-fundamentals.png" /></a> | <a href="https://www.youracclaim.com/badges/1ed42ba5-d7fe-4191-a5cb-90f86edcd33a/public_url"><img alt="AZ-204" width="100" height="100" src="https://raw.githubusercontent.com/berviantoleo/berviantoleo/master/azure-developer-associate-600x600.png" /></a> |
 
 ## Focus
 
