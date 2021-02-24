@@ -21,6 +21,9 @@ I'm a Backend Developer working in Bandung, Indonesia.
 ## Interest Topic
 
 * Cyber security
+* DevOps
+* Site Reliability Engineer (SRE)
+* DevSecOps
 
 ## Contact
 
@@ -35,8 +38,13 @@ Need more information? Contact me:
 ## My Blog
 
 * DEV: https://dev.to/berviantoleo
-* Medium: https://medium.com/@bervianto.leo
-* Visit: https://berviantoleo.my.id
+* Medium: https://berviantoleo.medium.com
+* Blogger: https://blog.berviantoleo.my.id
+
+## Personal Site
+
+* https://berviantoleo.my.id
+* https://personal.berviantoleo.my.id
 
 ## My Organization
 
