@@ -11,6 +11,8 @@ I'm a Backend Developer working in Bandung, Indonesia.
 |:------:|:------:|:------:|
 | <a href="https://www.credly.com/badges/1b8f8bd9-3dd9-41cc-8cd3-697b27280cfc/public_url"><img alt="AZ-400" width="100" height="100" src="https://raw.githubusercontent.com/berviantoleo/berviantoleo/master/images/microsoft-certified-devops-engineer-expert.png" /></a> | <a href="https://www.credly.com/badges/1ed42ba5-d7fe-4191-a5cb-90f86edcd33a/public_url"><img alt="AZ-204" width="100" height="100" src="https://raw.githubusercontent.com/berviantoleo/berviantoleo/master/images/azure-developer-associate-600x600.png" /></a> | <a href="https://www.credly.com/badges/61a336e9-92a7-4c8c-aeee-a5c07bf3fae5/public_url"><img alt="AZ-900" width="100" height="100" src="https://raw.githubusercontent.com/berviantoleo/berviantoleo/master/images/microsoft-certified-azure-fundamentals.png" /></a> |
 
+* More [Badge/Certification](https://www.credly.com/users/bervianto-leo-pratama/badges)
+
 ## Focus
 
 * Microservices
