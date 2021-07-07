@@ -3,7 +3,7 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I2YXS8)
 
 
-I'm a Backend Developer working in Bandung, Indonesia.
+I'm a Software Engineer working in Bandung, Indonesia.
 
 ## Certification
 
@@ -49,7 +49,6 @@ Need more information? Contact me:
 ## Personal Site
 
 * https://berviantoleo.my.id
-* https://personal.berviantoleo.my.id
 
 ## Active Projects
 
