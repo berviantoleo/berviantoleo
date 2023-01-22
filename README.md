@@ -8,6 +8,8 @@
 ## Badges/Certifications
 
 <!--START_SECTION:badges-->
+[![Microsoft Certified: Security Operations Analyst Associate](https://images.credly.com/size/110x110/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png)](http://www.credly.com/badges/4136b42e-bf3d-447f-b8a8-9f884fed7cbd "Microsoft Certified: Security Operations Analyst Associate")
+[![.NET Workloads on AWS App Runner](https://images.credly.com/size/110x110/images/eea64560-121f-4437-af9c-91cf20968d35/image.png)](http://www.credly.com/badges/e5e6cdf5-46d5-4927-87c4-67651ea9deed ".NET Workloads on AWS App Runner")
 [![Microsoft Certified: Azure Cosmos DB Developer Specialty](https://images.credly.com/size/110x110/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png)](http://www.credly.com/badges/79854684-04d7-49df-835e-09ca5efa18c3 "Microsoft Certified: Azure Cosmos DB Developer Specialty")
 [![Microsoft Certified: Azure Database Administrator Associate](https://images.credly.com/size/110x110/images/edc0b0d8-55ec-4dfe-9353-22c1bc4e07e8/azure-database-administrator-associate-600x600.png)](http://www.credly.com/badges/bb79f65b-29e8-44c9-8084-9b82293a4eea "Microsoft Certified: Azure Database Administrator Associate")
 [![Cisco Certified DevNet Associate](https://images.credly.com/size/110x110/images/e21e94f7-feec-4717-9687-ac150b213f64/Cisco_DevNetAsst_600.png)](http://www.credly.com/badges/2eda7f15-37ae-4e21-a352-1366730dfcd8 "Cisco Certified DevNet Associate")
