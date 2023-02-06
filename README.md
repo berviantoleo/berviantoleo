@@ -42,10 +42,10 @@
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/36c108ee-57dc-4d85-a669-72df190c4348 "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges-->
 
-### Google Cloud
+### Accredible / Google Cloud
 
-<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/49384407"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/49384407" width="110" height="110" alt="Google CDL" /></a>
-<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/57646449"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/57646449?key=b7b6534eb2f872d296a6b14a4b87fd8c3e991f77c2a70a439fff686ab6c4338f" width="110" height="110" alt="Google ACE" /></a>
+<!--START_SECTION:accrediblebadges-->
+<!--END_SECTION:accrediblebadges-->
 
 * More [Badge/Certification](https://www.credly.com/users/bervianto-leo-pratama/badges)
 
