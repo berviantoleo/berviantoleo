@@ -15,7 +15,7 @@ jobs:
         with:
           CREDLY_USER: 'bervianto-leo-pratama'
       - name: Badges - Readme - Accredible
-        uses: berviantoleo/accredible-actions@1
+        uses: berviantoleo/accredible-actions@main
         with:
           username: 'berviantoleo'
           token: ${{ secrets.GITHUB_TOKEN }}
