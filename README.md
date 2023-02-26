@@ -8,6 +8,7 @@
 ## Badges/Certifications
 
 <!--START_SECTION:badges-->
+[![.NET Workloads on AWS Lambda](https://images.credly.com/size/110x110/images/221e7d7f-bceb-422e-8c31-436ecbcda614/image.png)](http://www.credly.com/badges/e4dfc1aa-7adc-427a-aa6a-74bd89eb9574 ".NET Workloads on AWS Lambda")
 [![AWS Learning: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/72a09770-9d56-428a-8304-383328c7057b "AWS Learning: Architecting")
 [![Microsoft Certified: Security Operations Analyst Associate](https://images.credly.com/size/110x110/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png)](http://www.credly.com/badges/4136b42e-bf3d-447f-b8a8-9f884fed7cbd "Microsoft Certified: Security Operations Analyst Associate")
 [![.NET Workloads on AWS App Runner](https://images.credly.com/size/110x110/images/eea64560-121f-4437-af9c-91cf20968d35/image.png)](http://www.credly.com/badges/e5e6cdf5-46d5-4927-87c4-67651ea9deed ".NET Workloads on AWS App Runner")
