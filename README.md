@@ -8,6 +8,8 @@
 ## Badges/Certifications
 
 <!--START_SECTION:badges-->
+[![HashiCorp Ambassador 2023](https://images.credly.com/size/110x110/images/692826e2-8c24-4967-8373-fa75319eaed8/image.png)](http://www.credly.com/badges/8cad11b0-12d7-4193-b51a-11a0c75de467 "HashiCorp Ambassador 2023")
+[![.NET Workloads on Amazon ECS on AWS Fargate](https://images.credly.com/size/110x110/images/7e5e1967-439e-48e5-a913-625c712b2dc5/image.png)](http://www.credly.com/badges/1950c6d6-27ae-4e72-9c06-87bffee4fd9d ".NET Workloads on Amazon ECS on AWS Fargate")
 [![.NET Workloads on AWS Lambda](https://images.credly.com/size/110x110/images/221e7d7f-bceb-422e-8c31-436ecbcda614/image.png)](http://www.credly.com/badges/e4dfc1aa-7adc-427a-aa6a-74bd89eb9574 ".NET Workloads on AWS Lambda")
 [![AWS Learning: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/72a09770-9d56-428a-8304-383328c7057b "AWS Learning: Architecting")
 [![Microsoft Certified: Security Operations Analyst Associate](https://images.credly.com/size/110x110/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png)](http://www.credly.com/badges/4136b42e-bf3d-447f-b8a8-9f884fed7cbd "Microsoft Certified: Security Operations Analyst Associate")
