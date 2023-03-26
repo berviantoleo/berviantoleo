@@ -8,6 +8,7 @@
 ## Badges/Certifications
 
 <!--START_SECTION:badges-->
+[![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](http://www.credly.com/badges/5eac34bb-d121-4926-a789-e8c94b627484 "AWS Certified Security – Specialty")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/93a00835-32b8-41ae-8e62-377958593a8e "AWS Cloud Quest: Cloud Practitioner")
 [![HashiCorp Ambassador 2023](https://images.credly.com/size/110x110/images/692826e2-8c24-4967-8373-fa75319eaed8/image.png)](http://www.credly.com/badges/8cad11b0-12d7-4193-b51a-11a0c75de467 "HashiCorp Ambassador 2023")
 [![.NET Workloads on Amazon ECS on AWS Fargate](https://images.credly.com/size/110x110/images/7e5e1967-439e-48e5-a913-625c712b2dc5/image.png)](http://www.credly.com/badges/1950c6d6-27ae-4e72-9c06-87bffee4fd9d ".NET Workloads on Amazon ECS on AWS Fargate")
