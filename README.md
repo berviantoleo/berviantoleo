@@ -8,6 +8,7 @@
 ## Badges/Certifications
 
 <!--START_SECTION:badges-->
+[![CD Foundation Ambassador 2023](https://images.credly.com/size/110x110/images/7a1379a4-3d3b-4d6b-8622-33f6824cb821/image.png)](http://www.credly.com/badges/4c1544dc-271b-404e-974a-f991320ab9d8 "CD Foundation Ambassador 2023")
 [![AWS App2Container and .NET Workloads](https://images.credly.com/size/110x110/images/9569f9aa-1426-4c6d-964e-daa7e5bc55ce/image.png)](http://www.credly.com/badges/d09e951e-dff9-489a-b84c-f5b623b7d1bd "AWS App2Container and .NET Workloads")
 [![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](http://www.credly.com/badges/5eac34bb-d121-4926-a789-e8c94b627484 "AWS Certified Security – Specialty")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/93a00835-32b8-41ae-8e62-377958593a8e "AWS Cloud Quest: Cloud Practitioner")
