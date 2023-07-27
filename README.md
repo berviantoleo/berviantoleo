@@ -85,7 +85,7 @@ Need more information? Contact me:
 
 | Social | Git Platform | Profesional Work | Video Platform | Forum |
 |:------:|:------------:|:----------------:|:--------------:|:-----:|
-| [![My Twitter][1.1]][1] [![Soundcloud][12.1]][12] [![Instagram][10.1]][10] | [![My Github][3.1]][3] | [![My Linkedin][4.1]][4] | [![My Twitch][5.1]][5] [![My Youtube][6.1]][6] | <a href="https://stackoverflow.com/users/6948591/bervianto-leo-pratama"><img src="https://stackoverflow.com/users/flair/6948591.png" width="208" height="58" alt="profile for Bervianto Leo Pratama at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Bervianto Leo Pratama at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> |
+| [![Soundcloud][12.1]][12] [![Instagram][10.1]][10] | [![My Github][3.1]][3] | [![My Linkedin][4.1]][4] | [![My Twitch][5.1]][5] [![My Youtube][6.1]][6] | <a href="https://stackoverflow.com/users/6948591/bervianto-leo-pratama"><img src="https://stackoverflow.com/users/flair/6948591.png" width="208" height="58" alt="profile for Bervianto Leo Pratama at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Bervianto Leo Pratama at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> |
 
 ### Website
 
@@ -121,7 +121,6 @@ Need more information? Contact me:
 ![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fberviantoleo1212%2Fhit-counter)
 
 
-[1.1]: https://img.shields.io/twitter/follow/berviantoleo?style=social (twitter icon)
 [3.1]: https://img.shields.io/github/followers/berviantoleo?style=social (github icon)
 [4.1]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white (linkedin icon)
 [5.1]: https://img.shields.io/twitch/status/berviantoleo?style=social (twitch icon)
@@ -143,7 +142,6 @@ Need more information? Contact me:
 
 
 
-[1]: https://twitter.com/berviantoleo
 [3]: https://github.com/berviantoleo
 [4]: https://linkedin.com/in/bervianto-leo-pratama
 [5]: https://www.twitch.tv/berviantoleo
