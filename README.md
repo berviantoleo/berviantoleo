@@ -8,6 +8,7 @@
 ## Badges/Certifications
 
 <!--START_SECTION:badges-->
+[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/9830adce-34c0-4e10-a8ad-08e5038d2e76 "HashiCorp Certified: Terraform Associate (003)")
 [![CD Foundation Ambassador 2023](https://images.credly.com/size/110x110/images/7a1379a4-3d3b-4d6b-8622-33f6824cb821/image.png)](http://www.credly.com/badges/4c1544dc-271b-404e-974a-f991320ab9d8 "CD Foundation Ambassador 2023")
 [![AWS App2Container and .NET Workloads](https://images.credly.com/size/110x110/images/9569f9aa-1426-4c6d-964e-daa7e5bc55ce/image.png)](http://www.credly.com/badges/d09e951e-dff9-489a-b84c-f5b623b7d1bd "AWS App2Container and .NET Workloads")
 [![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](http://www.credly.com/badges/5eac34bb-d121-4926-a789-e8c94b627484 "AWS Certified Security – Specialty")
