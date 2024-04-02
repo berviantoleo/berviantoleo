@@ -8,6 +8,9 @@
 ## Badges/Certifications
 
 <!--START_SECTION:badges-->
+[![Professional Cloud Developer Certification](https://images.credly.com/size/110x110/images/614465c6-1d80-4ae6-a323-753de224422a/image.png)](http://www.credly.com/badges/7fc61415-97dc-4656-8926-1fef8940c542 "Professional Cloud Developer Certification")
+[![Associate Cloud Engineer Certification](https://images.credly.com/size/110x110/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png)](http://www.credly.com/badges/cc46f92f-0d66-4532-89ce-d1fccf161c61 "Associate Cloud Engineer Certification")
+[![Cloud Digital Leader Certification](https://images.credly.com/size/110x110/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png)](http://www.credly.com/badges/6dbe47f9-29a9-4e16-be1a-726a731cf64d "Cloud Digital Leader Certification")
 [![Amazon Textract and .NET Workloads](https://images.credly.com/size/110x110/images/4c080efa-4375-4f88-836b-5b62a2c16c5d/image.png)](http://www.credly.com/badges/5a8c1c63-c1de-485e-9f21-c49f86a160e7 "Amazon Textract and .NET Workloads")
 [![Amazon Rekognition and .NET Workloads](https://images.credly.com/size/110x110/images/97f12235-506f-4fbf-a9ff-23c8c5042d2e/image.png)](http://www.credly.com/badges/24ecd3dc-ea87-443e-ac28-c2c7b5b00511 "Amazon Rekognition and .NET Workloads")
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/4c86ceb5-eda9-4240-be9c-137025ff1f00 "AWS Certified DevOps Engineer – Professional")
