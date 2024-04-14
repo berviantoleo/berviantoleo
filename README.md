@@ -8,6 +8,7 @@
 ## Badges/Certifications
 
 <!--START_SECTION:badges-->
+[![HashiCorp Ambassador 2024](https://images.credly.com/size/110x110/images/8fd13e7e-531d-4c17-87fc-8a93fa1eebdf/image.png)](http://www.credly.com/badges/3b7ccdc9-6787-487c-957b-fa729f76520f "HashiCorp Ambassador 2024")
 [![Professional Cloud Developer Certification](https://images.credly.com/size/110x110/images/614465c6-1d80-4ae6-a323-753de224422a/image.png)](http://www.credly.com/badges/7fc61415-97dc-4656-8926-1fef8940c542 "Professional Cloud Developer Certification")
 [![Associate Cloud Engineer Certification](https://images.credly.com/size/110x110/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png)](http://www.credly.com/badges/cc46f92f-0d66-4532-89ce-d1fccf161c61 "Associate Cloud Engineer Certification")
 [![Cloud Digital Leader Certification](https://images.credly.com/size/110x110/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png)](http://www.credly.com/badges/6dbe47f9-29a9-4e16-be1a-726a731cf64d "Cloud Digital Leader Certification")
