@@ -8,6 +8,7 @@
 ## Badges/Certifications
 
 <!--START_SECTION:badges-->
+[![CD Foundation Ambassador 2024](https://images.credly.com/size/110x110/images/05aff0a3-28d1-4a2b-8f77-887ccf1a10e8/image.png)](http://www.credly.com/badges/23c0a13f-9538-4d2b-a2a1-f07710242860 "CD Foundation Ambassador 2024")
 [![HashiCorp Ambassador 2024](https://images.credly.com/size/110x110/images/8fd13e7e-531d-4c17-87fc-8a93fa1eebdf/image.png)](http://www.credly.com/badges/3b7ccdc9-6787-487c-957b-fa729f76520f "HashiCorp Ambassador 2024")
 [![Professional Cloud Developer Certification](https://images.credly.com/size/110x110/images/614465c6-1d80-4ae6-a323-753de224422a/image.png)](http://www.credly.com/badges/7fc61415-97dc-4656-8926-1fef8940c542 "Professional Cloud Developer Certification")
 [![Associate Cloud Engineer Certification](https://images.credly.com/size/110x110/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png)](http://www.credly.com/badges/cc46f92f-0d66-4532-89ce-d1fccf161c61 "Associate Cloud Engineer Certification")
@@ -55,7 +56,6 @@
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/110x110/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/8fc0fcf6-5775-4a35-b0f4-6b4e462b2880 "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/030d0911-c224-4d56-bc01-77fe5bf51d3d "Microsoft Certified: DevOps Engineer Expert")
 [![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](http://www.credly.com/badges/3db56fee-122d-4e90-8734-94c4159e23cb "Microsoft Certified: Azure Developer Associate")
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/c0793ede-54c1-4910-b7a5-9d409032016e "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges-->
 
 * More [Badge/Certification](https://www.credly.com/users/bervianto-leo-pratama/badges)
