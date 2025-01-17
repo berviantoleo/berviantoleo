@@ -8,6 +8,8 @@
 ## Badges/Certifications
 
 <!--START_SECTION:badges-->
+[![AWS Certified AI Practitioner Early Adopter](https://images.credly.com/size/110x110/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](http://www.credly.com/badges/ff398713-7696-45b3-976f-2201ff99632b "AWS Certified AI Practitioner Early Adopter")
+[![AWS Certified AI Practitioner](https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](http://www.credly.com/badges/2a63424d-2b70-4271-a3b0-5b76d7f4fc05 "AWS Certified AI Practitioner")
 [![MongoDB Associate Developer](https://images.credly.com/size/110x110/images/46c663b1-d946-4f0e-8698-a490bd52b384/image.png)](http://www.credly.com/badges/9628d3fb-6f53-4283-a416-84b6af09bb9a "MongoDB Associate Developer")
 [![CD Foundation Ambassador 2024](https://images.credly.com/size/110x110/images/05aff0a3-28d1-4a2b-8f77-887ccf1a10e8/image.png)](http://www.credly.com/badges/23c0a13f-9538-4d2b-a2a1-f07710242860 "CD Foundation Ambassador 2024")
 [![HashiCorp Ambassador 2024](https://images.credly.com/size/110x110/images/8fd13e7e-531d-4c17-87fc-8a93fa1eebdf/image.png)](http://www.credly.com/badges/3b7ccdc9-6787-487c-957b-fa729f76520f "HashiCorp Ambassador 2024")
@@ -54,8 +56,6 @@
 [![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/5569c169-4a8f-4700-905f-df7ad9bbdd97 "Microsoft Certified: Azure AI Fundamentals")
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/07b5abe4-6381-4205-9324-2e4b5301148b "Introduction to Cybersecurity")
 [![CyberOps Associate](https://images.credly.com/size/110x110/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](http://www.credly.com/badges/33982f50-ecf2-4363-8c64-0fb827e40bd6 "CyberOps Associate")
-[![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/110x110/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/8fc0fcf6-5775-4a35-b0f4-6b4e462b2880 "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
-[![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/030d0911-c224-4d56-bc01-77fe5bf51d3d "Microsoft Certified: DevOps Engineer Expert")
 <!--END_SECTION:badges-->
 
 * More [Badge/Certification](https://www.credly.com/users/bervianto-leo-pratama/badges)
