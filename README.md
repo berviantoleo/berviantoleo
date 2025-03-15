@@ -7,6 +7,8 @@
 
 ## Badges/Certifications
 
+### Badges
+
 <!--START_SECTION:badges-->
 [![AWS Certified AI Practitioner Early Adopter](https://images.credly.com/size/110x110/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](http://www.credly.com/badges/ff398713-7696-45b3-976f-2201ff99632b "AWS Certified AI Practitioner Early Adopter")
 [![AWS Certified AI Practitioner](https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](http://www.credly.com/badges/2a63424d-2b70-4271-a3b0-5b76d7f4fc05 "AWS Certified AI Practitioner")
@@ -57,6 +59,8 @@
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/07b5abe4-6381-4205-9324-2e4b5301148b "Introduction to Cybersecurity")
 [![CyberOps Associate](https://images.credly.com/size/110x110/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](http://www.credly.com/badges/33982f50-ecf2-4363-8c64-0fb827e40bd6 "CyberOps Associate")
 <!--END_SECTION:badges-->
+
+### Certifications
 
 <!--START_SECTION:certificationtable-->
 |Name|Expiration|Achieved Date|Evidence Link|
