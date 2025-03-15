@@ -15,7 +15,7 @@ jobs:
         with:
           CREDLY_USER: 'bervianto-leo-pratama'
       - name: Update Table
-        uses: berviantoleo/accredible-badge-readme@1.0
+        uses: berviantoleo/certification-table-action@1.0
         with:
           token: ${secrets.GITHUB_TOKEN}
         env:
