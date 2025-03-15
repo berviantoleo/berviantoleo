@@ -58,6 +58,9 @@
 [![CyberOps Associate](https://images.credly.com/size/110x110/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](http://www.credly.com/badges/33982f50-ecf2-4363-8c64-0fb827e40bd6 "CyberOps Associate")
 <!--END_SECTION:badges-->
 
+<!--START_SECTION:certificationtable-->
+<!--END_SECTION:certificationtable-->
+
 * More [Badge/Certification](https://www.credly.com/users/bervianto-leo-pratama/badges)
 
 
