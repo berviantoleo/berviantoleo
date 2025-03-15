@@ -17,7 +17,7 @@ jobs:
       - name: Update Table
         uses: berviantoleo/certification-table-action@1.0
         with:
-          token: ${secrets.GITHUB_TOKEN}
+          token: ${{secrets.GITHUB_TOKEN}}
         env:
-          APPLICATION_ID: ${secrets.APPLICATION_ID}
-          REST_API_KEY: ${secrets.REST_API_KEY}
+          APPLICATION_ID: ${{secrets.APPLICATION_ID}}
+          REST_API_KEY: ${{secrets.REST_API_KEY}}
