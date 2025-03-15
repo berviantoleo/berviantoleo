@@ -8,9 +8,16 @@ on:
 jobs:
   update-readme:
     name: Update Readme with badges
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: 'bervianto-leo-pratama'
+      - name: Update Table
+        uses: accredible-badge-readme@1.0
+        with:
+          token: ${secrets.GITHUB_TOKEN}
+        env:
+          APPLICATION_ID: ${secrets.APPLICATION_ID}
+          REST_API_KEY: ${secrets.REST_API_KEY}
