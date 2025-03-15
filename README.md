@@ -59,6 +59,23 @@
 <!--END_SECTION:badges-->
 
 <!--START_SECTION:certificationtable-->
+|Name|Expiration|Achieved Date|Evidence Link|
+|:----:|:----:|:----:|:----:|
+|Microsoft Certified: Azure AI Engineer Associate|Tue Jun 09 2026 23:59:59 GMT+0000 (Coordinated Universal Time)|Sun Jun 09 2024 12:07:02 GMT+0000 (Coordinated Universal Time)|[Evidence](https://learn.microsoft.com/en-us/users/berviantoleo/credentials/95AF4F2A69576B71)|
+|Microsoft Certified: Identity and Access Administrator Associate|Thu Mar 12 2026 23:59:59 GMT+0000 (Coordinated Universal Time)|Sat Mar 12 2022 11:52:42 GMT+0000 (Coordinated Universal Time)|[Evidence](https://learn.microsoft.com/en-us/users/berviantoleo/credentials/D166F60B6A04AC8E)|
+|Microsoft Certified: Security Operations Analyst Associate|Wed Jan 21 2026 23:59:59 GMT+0000 (Coordinated Universal Time)|Sat Jan 21 2023 15:36:55 GMT+0000 (Coordinated Universal Time)|[Evidence](https://learn.microsoft.com/en-us/users/berviantoleo/credentials/4210A06CC7232CCD)|
+|Microsoft Certified: Azure Developer Associate|Fri Dec 26 2025 23:59:59 GMT+0000 (Coordinated Universal Time)|Sat Dec 26 2020 11:53:49 GMT+0000 (Coordinated Universal Time)|[Evidence](https://learn.microsoft.com/en-us/users/berviantoleo/credentials/C9D484DE735C0392)|
+|Microsoft Certified: Azure Cosmos DB Developer Specialty|Thu Dec 11 2025 23:59:59 GMT+0000 (Coordinated Universal Time)|Sun Dec 11 2022 11:22:16 GMT+0000 (Coordinated Universal Time)|[Evidence](https://learn.microsoft.com/en-us/users/berviantoleo/credentials/5E3A6218B685559F)|
+|Microsoft Certified: Azure Database Administrator Associate|Wed Oct 22 2025 23:59:59 GMT+0000 (Coordinated Universal Time)|Sat Oct 22 2022 11:16:48 GMT+0000 (Coordinated Universal Time)|[Evidence](https://learn.microsoft.com/en-us/users/berviantoleo/credentials/738461F793898F27)|
+|Microsoft Certified: Azure Solutions Architect Expert|Thu Oct 16 2025 23:59:59 GMT+0000 (Coordinated Universal Time)|Sat Oct 16 2021 11:55:07 GMT+0000 (Coordinated Universal Time)|[Evidence](https://learn.microsoft.com/en-us/users/berviantoleo/credentials/6F98873152FF1836)|
+|Microsoft Certified: Azure Administrator Associate|Wed Sep 17 2025 23:59:59 GMT+0000 (Coordinated Universal Time)|Sun Sep 17 2023 09:42:42 GMT+0000 (Coordinated Universal Time)|[Evidence](https://learn.microsoft.com/en-us/users/berviantoleo/credentials/BD107F5C6975C879)|
+|Microsoft Certified: DevOps Engineer Expert|Wed Sep 17 2025 23:59:59 GMT+0000 (Coordinated Universal Time)|Sat Apr 03 2021 11:41:16 GMT+0000 (Coordinated Universal Time)|[Evidence](https://learn.microsoft.com/en-us/users/berviantoleo/credentials/14F1F56A85FFD081)|
+|Microsoft Certified: Dynamics 365 Fundamentals (CRM)|-|Sat Aug 20 2022 12:00:06 GMT+0000 (Coordinated Universal Time)|[Evidence](https://learn.microsoft.com/en-us/users/berviantoleo/credentials/364BFDD4DCD6C4D4)|
+|Microsoft Certified: Security, Compliance, and Identity Fundamentals|-|Sat Feb 19 2022 11:53:46 GMT+0000 (Coordinated Universal Time)|[Evidence](https://learn.microsoft.com/en-us/users/berviantoleo/credentials/3B7945FE7B3429B1)|
+|Microsoft Certified: Power Platform Fundamentals|-|Sat Nov 06 2021 11:52:50 GMT+0000 (Coordinated Universal Time)|[Evidence](https://learn.microsoft.com/en-us/users/berviantoleo/credentials/47CC2491E3ED5E2F)|
+|Microsoft Certified: Azure Data Fundamentals|-|Sun Jun 06 2021 06:37:19 GMT+0000 (Coordinated Universal Time)|[Evidence](https://learn.microsoft.com/en-us/users/berviantoleo/credentials/A80DAE758A6662BD)|
+|Microsoft Certified: Azure AI Fundamentals|-|Sat Jun 05 2021 12:09:20 GMT+0000 (Coordinated Universal Time)|[Evidence](https://learn.microsoft.com/en-us/users/berviantoleo/credentials/E4BF4B48B37562E9)|
+|Microsoft Certified: Azure Fundamentals|-|Sat Jan 18 2020 11:36:52 GMT+0000 (Coordinated Universal Time)|[Evidence](https://learn.microsoft.com/en-us/users/berviantoleo/credentials/D7440518AD40B61E)|
 <!--END_SECTION:certificationtable-->
 
 * More [Badge/Certification](https://www.credly.com/users/bervianto-leo-pratama/badges)
