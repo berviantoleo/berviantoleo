@@ -10,6 +10,8 @@
 ### Badges
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/4ea557b7-2f23-491e-91f7-bc9c49139b68" title="Building AI Agents with MongoDB"><img src="https://images.credly.com/size/80x80/images/252ed95c-8043-44f5-ae1f-6f5a6cf313c4/blob" alt="Building AI Agents with MongoDB" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/c6e2cba3-a93c-479e-9d23-398226274a2b" title="MongoDB Indexing Design Fundamentals"><img src="https://images.credly.com/size/80x80/images/27213be6-415d-411f-a69a-0171ca2c89f5/blob" alt="MongoDB Indexing Design Fundamentals" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/db0072eb-704b-4c5a-991a-d76e424341e4" title="Automate AI Solutions on Cisco Infrastructure"><img src="https://images.credly.com/size/80x80/images/511698f3-cc82-4c6d-86b1-5b5dd1d413e4/blob" alt="Automate AI Solutions on Cisco Infrastructure" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/b2427b20-4ced-4a13-8331-06d90dd3c6e6" title="CD Foundation Ambassador 2025"><img src="https://images.credly.com/size/80x80/images/86c3ce90-4aa3-41d2-ad46-07231a8683a2/blob" alt="CD Foundation Ambassador 2025" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/fbda9d28-d417-4524-b7fd-bb396b3672f9" title="AI Solutions on Cisco Infrastructure Essentials"><img src="https://images.credly.com/size/80x80/images/cfd697ad-4bec-4245-82c8-c7ab4cfc340b/blob" alt="AI Solutions on Cisco Infrastructure Essentials" width="80" height="80"></a>
