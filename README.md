@@ -10,6 +10,8 @@
 ### Badges
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/6c84f204-6c78-4aed-b832-f117c45dd926" title="Managing Cisco Network Operating Systems"><img src="https://images.credly.com/size/80x80/images/83569772-6754-4bcb-b109-c63532daf94a/blob" alt="Managing Cisco Network Operating Systems" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/0f1e6be5-b486-451c-9bd9-74c35464b74e" title="Understanding Cisco Network Automation Essentials"><img src="https://images.credly.com/size/80x80/images/e4da2c8b-8802-40d5-88a0-990f75c34a73/blob" alt="Understanding Cisco Network Automation Essentials" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4971c3a5-221e-4500-910d-67379ff1f959" title="Programming for Network Engineers"><img src="https://images.credly.com/size/80x80/images/e25c99dc-ccb8-4d91-88d2-055ad0d573a7/blob" alt="Programming for Network Engineers" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4ea557b7-2f23-491e-91f7-bc9c49139b68" title="Building AI Agents with MongoDB"><img src="https://images.credly.com/size/80x80/images/252ed95c-8043-44f5-ae1f-6f5a6cf313c4/blob" alt="Building AI Agents with MongoDB" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/c6e2cba3-a93c-479e-9d23-398226274a2b" title="MongoDB Indexing Design Fundamentals"><img src="https://images.credly.com/size/80x80/images/27213be6-415d-411f-a69a-0171ca2c89f5/blob" alt="MongoDB Indexing Design Fundamentals" width="80" height="80"></a>
