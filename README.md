@@ -10,6 +10,8 @@
 ### Badges
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/d450a5b7-a866-4d04-9fd2-1b2c679633d7" title="Cisco AI Business Practitioner"><img src="https://images.credly.com/size/80x80/images/efecb3e9-3b98-4cac-8331-1f2acc6e8526/blob" alt="Cisco AI Business Practitioner" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/23fed2ca-5b48-4df3-a73f-01013cc2b95b" title="Cisco AI Technical Practitioner"><img src="https://images.credly.com/size/80x80/images/cd953e3c-7106-4547-ac48-2af013959760/blob" alt="Cisco AI Technical Practitioner" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5de3fd9e-3a4c-4c9c-aa1b-da2f57f7c5f2" title="Implement Multimodal Vector Search with BigQuery"><img src="https://images.credly.com/size/80x80/images/6d858d84-6987-48c8-9608-f5abb9b74492/blob" alt="Implement Multimodal Vector Search with BigQuery" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f91ad4a2-58b4-4e25-8741-d4b32d81f682" title="Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge"><img src="https://images.credly.com/size/80x80/images/86a3283f-3e35-494f-82da-3fb3e89ba223/image.png" alt="Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/7e1fa2bc-e78e-47f1-a529-b32915774cbc" title="Mitigate Threats and Vulnerabilities with Security Command Center Skill Badge"><img src="https://images.credly.com/size/80x80/images/122ab775-7bbd-4167-a3b5-5dd92b4e02f6/image.png" alt="Mitigate Threats and Vulnerabilities with Security Command Center Skill Badge" width="80" height="80"></a>
@@ -53,11 +55,9 @@
 <a href="https://www.credly.com/badges/e4dfc1aa-7adc-427a-aa6a-74bd89eb9574" title=".NET Workloads on AWS Lambda"><img src="https://images.credly.com/size/80x80/images/221e7d7f-bceb-422e-8c31-436ecbcda614/image.png" alt=".NET Workloads on AWS Lambda" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/72a09770-9d56-428a-8304-383328c7057b" title="AWS Knowledge: Architecting (Retired)"><img src="https://images.credly.com/size/80x80/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" alt="AWS Knowledge: Architecting (Retired)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/e5e6cdf5-46d5-4927-87c4-67651ea9deed" title=".NET Workloads on AWS App Runner"><img src="https://images.credly.com/size/80x80/images/eea64560-121f-4437-af9c-91cf20968d35/image.png" alt=".NET Workloads on AWS App Runner" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/bf866d71-24e5-4fdc-a0b9-db5a0eb5635e" title="CCNA Automation"><img src="https://images.credly.com/size/80x80/images/6226d25d-d002-4de7-92bc-4263b44483b5/blob" alt="CCNA Automation" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/ece3535f-791e-4dcc-8f60-bb711bba66a9" title="CCNA Automation"><img src="https://images.credly.com/size/80x80/images/6226d25d-d002-4de7-92bc-4263b44483b5/blob" alt="CCNA Automation" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/116f7884-c8b4-44a3-aeaa-5dae9f02d4f0" title="Microsoft Certified: Dynamics 365 Fundamentals (CRM)"><img src="https://images.credly.com/size/80x80/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png" alt="Microsoft Certified: Dynamics 365 Fundamentals (CRM)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/1ef1b3ca-06b9-4b35-99c2-f3e8a9967c6c" title="AWS Academy Graduate - Cloud Architecting - Training Badge"><img src="https://images.credly.com/size/80x80/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob" alt="AWS Academy Graduate - Cloud Architecting - Training Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/3638cf60-ee35-4017-a1cd-8d7058c4a18a" title="Network Security"><img src="https://images.credly.com/size/80x80/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="Network Security" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/88cd1bac-5c09-42f4-be28-2afe4ddf54de" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ### Certifications
