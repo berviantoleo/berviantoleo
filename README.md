@@ -10,6 +10,7 @@
 ### Badges
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/7b005f26-9e85-4e81-8a3f-8425494cea67" title="Deploy Multi-Agent Architectures"><img src="https://images.credly.com/size/80x80/images/5b442afe-30bb-441f-a900-e78910db2116/blob" alt="Deploy Multi-Agent Architectures" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/3f717fd9-e65d-453f-8624-fdabf06e7ef8" title="IBM Champion 2026"><img src="https://images.credly.com/size/80x80/images/067f61a9-e5b6-496c-98c4-d39364201753/Champions_2026.png" alt="IBM Champion 2026" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d450a5b7-a866-4d04-9fd2-1b2c679633d7" title="Cisco AI Business Practitioner"><img src="https://images.credly.com/size/80x80/images/efecb3e9-3b98-4cac-8331-1f2acc6e8526/blob" alt="Cisco AI Business Practitioner" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/23fed2ca-5b48-4df3-a73f-01013cc2b95b" title="Cisco AI Technical Practitioner"><img src="https://images.credly.com/size/80x80/images/cd953e3c-7106-4547-ac48-2af013959760/blob" alt="Cisco AI Technical Practitioner" width="80" height="80"></a>
@@ -57,7 +58,6 @@
 <a href="https://www.credly.com/badges/e5e6cdf5-46d5-4927-87c4-67651ea9deed" title=".NET Workloads on AWS App Runner"><img src="https://images.credly.com/size/80x80/images/eea64560-121f-4437-af9c-91cf20968d35/image.png" alt=".NET Workloads on AWS App Runner" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/ece3535f-791e-4dcc-8f60-bb711bba66a9" title="CCNA Automation"><img src="https://images.credly.com/size/80x80/images/6226d25d-d002-4de7-92bc-4263b44483b5/blob" alt="CCNA Automation" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/116f7884-c8b4-44a3-aeaa-5dae9f02d4f0" title="Microsoft Certified: Dynamics 365 Fundamentals (CRM)"><img src="https://images.credly.com/size/80x80/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png" alt="Microsoft Certified: Dynamics 365 Fundamentals (CRM)" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/1ef1b3ca-06b9-4b35-99c2-f3e8a9967c6c" title="AWS Academy Graduate - Cloud Architecting - Training Badge"><img src="https://images.credly.com/size/80x80/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob" alt="AWS Academy Graduate - Cloud Architecting - Training Badge" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ### Certifications
