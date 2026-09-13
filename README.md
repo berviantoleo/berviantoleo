@@ -10,6 +10,9 @@
 ### Badges
 
 <!--START_SECTION:badges-->
+[![IBM Contributor 2026](https://images.credly.com/size/80x80/images/277a0aca-64a1-4c6e-ab91-cdba845a2335/Contributor_2026.png)](https://www.credly.com/badges/b0ab60f0-86b9-4446-9dab-5a5da20ab7e7)
+[![Kickstarting Application Development with Gemini Code Assist](https://images.credly.com/size/80x80/images/5b6ab4b6-1a55-4976-a8e3-f05cbf37c4d3/blob)](https://www.credly.com/badges/5cb2a9ac-214f-4ab6-aec4-7d4fabdc844e)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/e3acf99e-c7b5-499e-a6c5-1488d0ea4cdb)
 [![Designing Cisco Security Infrastructure](https://images.credly.com/size/80x80/images/46a2b65e-147f-4822-8d82-e9bce310b068/blob)](https://www.credly.com/badges/867133c9-2c52-4187-ba2c-881a429668b3)
 [![AI Skills Fest 2026](https://images.credly.com/size/80x80/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob)](https://www.credly.com/badges/ae49109f-5166-45c5-93b6-79f1d7749f19)
 [![Deploy Multi-Agent Architectures](https://images.credly.com/size/80x80/images/5b442afe-30bb-441f-a900-e78910db2116/blob)](https://www.credly.com/badges/7b005f26-9e85-4e81-8a3f-8425494cea67)
@@ -26,7 +29,7 @@
 [![Build Real World AI Applications with Gemini and Imagen Skill Badge](https://images.credly.com/size/80x80/images/b7898c75-72ce-4304-b227-0aa7563aaca9/blob)](https://www.credly.com/badges/1e461176-07e0-40b5-983f-597008d0fc5e)
 [![Enhance Gemini Model Capabilities](https://images.credly.com/size/80x80/images/9e6cd82e-c95d-4ffe-8190-32fdf032a4cb/blob)](https://www.credly.com/badges/5fdbba9c-cf34-4852-b0e3-15e2a7dec433)
 [![Automate Data Capture at Scale with Document AI Skill Badge](https://images.credly.com/size/80x80/images/ca5eab27-0890-4eb6-9885-97650b485212/image.png)](https://www.credly.com/badges/4e9ff922-0fc2-46e5-abf8-336f2ffdd923)
-[![Cloud Functions: 3 Ways Skill Badge](https://images.credly.com/size/80x80/images/12ca3878-2560-4d84-a3a5-c317db9ca549/image.png)](https://www.credly.com/badges/cfddfbf4-1102-479a-ac8a-1b6415dd7f8a)
+[![Build Serverless Applications with Cloud Run Functions](https://images.credly.com/size/80x80/images/68d09678-1374-4c02-a021-13657a5431c7/blob)](https://www.credly.com/badges/cfddfbf4-1102-479a-ac8a-1b6415dd7f8a)
 [![Create ML Models with BigQuery ML Skill Badge](https://images.credly.com/size/80x80/images/073a27aa-c3d6-44b5-875f-906191666d70/image.png)](https://www.credly.com/badges/2919d0a1-44f5-4dd2-8a76-1eb265064316)
 [![Develop GenAI Apps with Gemini and Streamlit Skill Badge](https://images.credly.com/size/80x80/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob)](https://www.credly.com/badges/1def0eae-3c85-4d21-aa6d-f2cb8488ba03)
 [![Develop Serverless Applications on Cloud Run Skill Badge](https://images.credly.com/size/80x80/images/71b9b0df-64f1-4c0a-867f-942e2a5a5a14/image.png)](https://www.credly.com/badges/b3007d29-2bf3-449e-a5db-06f1c10308b6)
@@ -55,9 +58,6 @@
 [![AWS App2Container and .NET Workloads](https://images.credly.com/size/80x80/images/9569f9aa-1426-4c6d-964e-daa7e5bc55ce/image.png)](https://www.credly.com/badges/d09e951e-dff9-489a-b84c-f5b623b7d1bd)
 [![AWS Cloud Quest: Cloud Practitioner - Training Badge](https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)](https://www.credly.com/badges/93a00835-32b8-41ae-8e62-377958593a8e)
 [![.NET Workloads on Amazon ECS on AWS Fargate](https://images.credly.com/size/80x80/images/7e5e1967-439e-48e5-a913-625c712b2dc5/image.png)](https://www.credly.com/badges/1950c6d6-27ae-4e72-9c06-87bffee4fd9d)
-[![.NET Workloads on AWS Lambda](https://images.credly.com/size/80x80/images/221e7d7f-bceb-422e-8c31-436ecbcda614/image.png)](https://www.credly.com/badges/e4dfc1aa-7adc-427a-aa6a-74bd89eb9574)
-[![AWS Knowledge: Architecting (Retired)](https://images.credly.com/size/80x80/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/72a09770-9d56-428a-8304-383328c7057b)
-[![.NET Workloads on AWS App Runner](https://images.credly.com/size/80x80/images/eea64560-121f-4437-af9c-91cf20968d35/image.png)](https://www.credly.com/badges/e5e6cdf5-46d5-4927-87c4-67651ea9deed)
 <!--END_SECTION:badges-->
 
 ### Certifications
