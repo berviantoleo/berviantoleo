@@ -10,6 +10,8 @@
 ### Badges
 
 <!--START_SECTION:badges-->
+[![IBM Advocate 2026](https://images.credly.com/size/80x80/images/90f87bfa-ca6a-4a82-9d5b-ef574883c28e/Advocate_2026.png)](https://www.credly.com/badges/b166e96a-309c-4f92-bbab-cd242c2735d7)
+[![IBM Bob Advocate 2026](https://images.credly.com/size/80x80/images/19a109d9-6a16-4a57-b246-969617103920/Advocate_Bob.png)](https://www.credly.com/badges/903e5dae-7751-419e-acd3-24ed47c57c53)
 [![IBM Contributor 2026](https://images.credly.com/size/80x80/images/277a0aca-64a1-4c6e-ab91-cdba845a2335/Contributor_2026.png)](https://www.credly.com/badges/b0ab60f0-86b9-4446-9dab-5a5da20ab7e7)
 [![Kickstarting Application Development with Gemini Code Assist](https://images.credly.com/size/80x80/images/5b6ab4b6-1a55-4976-a8e3-f05cbf37c4d3/blob)](https://www.credly.com/badges/5cb2a9ac-214f-4ab6-aec4-7d4fabdc844e)
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/e3acf99e-c7b5-499e-a6c5-1488d0ea4cdb)
@@ -56,8 +58,6 @@
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/6b7fcc9a-8f41-407b-8d27-db56c6ef1d07)
 [![CD Foundation Ambassador 2023](https://images.credly.com/size/80x80/images/7a1379a4-3d3b-4d6b-8622-33f6824cb821/image.png)](https://www.credly.com/badges/4c1544dc-271b-404e-974a-f991320ab9d8)
 [![AWS App2Container and .NET Workloads](https://images.credly.com/size/80x80/images/9569f9aa-1426-4c6d-964e-daa7e5bc55ce/image.png)](https://www.credly.com/badges/d09e951e-dff9-489a-b84c-f5b623b7d1bd)
-[![AWS Cloud Quest: Cloud Practitioner - Training Badge](https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)](https://www.credly.com/badges/93a00835-32b8-41ae-8e62-377958593a8e)
-[![.NET Workloads on Amazon ECS on AWS Fargate](https://images.credly.com/size/80x80/images/7e5e1967-439e-48e5-a913-625c712b2dc5/image.png)](https://www.credly.com/badges/1950c6d6-27ae-4e72-9c06-87bffee4fd9d)
 <!--END_SECTION:badges-->
 
 ### Certifications
