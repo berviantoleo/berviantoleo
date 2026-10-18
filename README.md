@@ -10,6 +10,7 @@
 ### Badges
 
 <!--START_SECTION:badges-->
+[![Understanding Cisco Data Center Foundations](https://images.credly.com/size/80x80/images/ae010caf-f6d0-45d0-8665-a9dc631021f0/blob)](https://www.credly.com/badges/007f9219-1d9c-46b5-b6a6-6930d782ebf4)
 [![HashiCorp Certified: Vault Associate (003)](https://images.credly.com/size/80x80/images/a366e439-0eee-419b-a6fd-48b7807c9035/blob)](https://www.credly.com/badges/85116c72-da56-4d62-a732-ce80c7ae7707)
 [![IBM Advocate 2026](https://images.credly.com/size/80x80/images/90f87bfa-ca6a-4a82-9d5b-ef574883c28e/Advocate_2026.png)](https://www.credly.com/badges/b166e96a-309c-4f92-bbab-cd242c2735d7)
 [![IBM Bob Advocate 2026](https://images.credly.com/size/80x80/images/19a109d9-6a16-4a57-b246-969617103920/Advocate_Bob.png)](https://www.credly.com/badges/903e5dae-7751-419e-acd3-24ed47c57c53)
@@ -57,7 +58,6 @@
 [![Amazon Rekognition and .NET Workloads](https://images.credly.com/size/80x80/images/97f12235-506f-4fbf-a9ff-23c8c5042d2e/image.png)](https://www.credly.com/badges/24ecd3dc-ea87-443e-ac28-c2c7b5b00511)
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/80x80/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/4c86ceb5-eda9-4240-be9c-137025ff1f00)
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/6b7fcc9a-8f41-407b-8d27-db56c6ef1d07)
-[![CD Foundation Ambassador 2023](https://images.credly.com/size/80x80/images/7a1379a4-3d3b-4d6b-8622-33f6824cb821/image.png)](https://www.credly.com/badges/4c1544dc-271b-404e-974a-f991320ab9d8)
 <!--END_SECTION:badges-->
 
 ### Certifications
